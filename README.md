@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @vaitheeswaran-128
 
-- 👀 I’m interested in **Data Science, Machine Learning,python**
+- 👀 I’m interested in **Data analytics, Machine Learning,python**
 - 🌱 I’m currently learning **Python, SQL, Power BI, and Advanced Excel for Data Analysis**
 - 💞️  I’m looking to collaborate on **data analysis projects and beginner-friendly open-source work**
 - 📫 How to reach me: **[@vaitheeswaran662@gmaik.com]** | **[linkedin](www.linkedin.com/in/vaitheeswaran-m-4b8269341)**
