@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @vaitheeswaran-128
+### 👋 Hi, I’m @vaitheeswaran
 
 - 👀 I’m interested in **Data analytics, Machine Learning,python**
 - 🌱 I’m currently learning **Python, SQL, Power BI, and Advanced Excel for Data Analysis**
